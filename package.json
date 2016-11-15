@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
     "node": ">=4.5.0",
-    "npm": "^3.0.0"
+    "npm": ">=3.0.0"
   },
   "scripts": {
     "clean": "rimraf dist",
@@ -112,7 +112,6 @@
     "yargs": "^6.3.0"
   },
   "devDependencies": {
-    "babel-core": "^6.17.0",
     "babel-eslint": "^7.1.0",
     "babel-plugin-istanbul": "^2.0.1",
     "chai": "^3.4.1",
