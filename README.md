@@ -1,3 +1,12 @@
+# Voice Analyzer widget using Beyond Verbal
+This is a UI widget which analyzes the emotion of a speaker's voice and displays it in real time. The idea is that a call center agent can get real-time feedback about how a call with a customer is progressing based on an analysis of the emotion in customer's voice. The widget also displays the emotion analysis of the agent's voice to let the agent know how he/she is coming across to the customer.
+
+This widget was developed for Amdocs Hackathon in 2017.
+
+What follows is the original README of React Redux Starter Kit.
+
+
+
 # React Redux Starter Kit
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
